@@ -7,9 +7,9 @@ This account was made as part of the Lesson 01: Lab Assignment.
 # About Me
 ## Background Information
 I am 23 years old, born in New Hampshire but raised in Raleigh, North Carolina.  
-I have played soccer since I was 4 years old.
+I have played soccer since I was 4 years old.  
 My family is Colombian. I have one older brother, who is 25 years old.  
-My favorite food is pasta and my favorite drink is apple juice.
+My favorite food is pasta and my favorite drink is apple juice.  
 My favorite animal is an elephant.  
 
 ## Recommended Websites
