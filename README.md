@@ -23,5 +23,5 @@ flowchart TD
 A[Pull Up Our Guessing Game] --> B[Using the Application, Make a Numerical Guess Between The Range of 1-1000] --> C[The Application Will Give Feedback of Your Guess]
 --> D{Was Your Guess Too...}
 D --> |High?| E[Make Another Guess, That Is Lower]
-D --> |Low?| F[Make Another Guess, That Is Higher] --> EF[Continue The Process Until You Guess Corrrectly!]
+D --> |Low?| F[Make Another Guess, That Is Higher] --> E/F[Continue The Process Until You Guess Corrrectly!]
 ```
